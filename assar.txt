@@ -1,0 +1,19 @@
+Région: Grand Casablanca
+Type de marché: Marché de gros
+Famille de produits: Légumes
+http://www.prixagriculture.org/prix-des-produits?AAPrice[REGION_ID]=5&AAPrice[PROVINCE_ID]=&AAPrice[TYPE_MARKET_ID]=2&AAPrice[productFamilyId]=3&exportXLS=true
+
+Famille de produits: Fruits
+http://www.prixagriculture.org/prix-des-produits?AAPrice[REGION_ID]=5&AAPrice[PROVINCE_ID]=&AAPrice[TYPE_MARKET_ID]=2&AAPrice[productFamilyId]=6&exportXLS=true
+
+Famille de produits: Produits Animales
+http://www.prixagriculture.org/prix-des-produits?AAPrice[REGION_ID]=5&AAPrice[PROVINCE_ID]=&AAPrice[TYPE_MARKET_ID]=2&AAPrice[productFamilyId]=7&exportXLS=true
+
+All products (Marché de gros):
+http://www.prixagriculture.org/prix-des-produits?AAPrice[REGION_ID]=5&AAPrice[PROVINCE_ID]=&AAPrice[TYPE_MARKET_ID]=2&AAPrice[productFamilyId]=&exportXLS=true
+
+All products (Souk):
+http://www.prixagriculture.org/prix-des-produits?AAPrice[REGION_ID]=5&AAPrice[PROVINCE_ID]=&AAPrice[TYPE_MARKET_ID]=1&AAPrice[productFamilyId]=&exportXLS=true
+
+All products (Detail)
+http://www.prixagriculture.org/prix-des-produits?AAPrice[REGION_ID]=5&AAPrice[PROVINCE_ID]=&AAPrice[TYPE_MARKET_ID]=3&AAPrice[productFamilyId]=&exportXLS=true
